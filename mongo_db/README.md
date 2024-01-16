@@ -3,4 +3,4 @@
 1. docker build -t my-mongo .
 2. docker run --name mongodb -d -p 27017:27017 my-mongo
 
-"""Install `MongoDB Compass`[https://www.mongodb.com/products/tools/compass] and connect using it with the DB"""
+"""Install [`MongoDB Compass`](https://www.mongodb.com/products/tools/compass) and connect using it with the DB"""
